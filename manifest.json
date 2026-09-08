@@ -1,0 +1,12 @@
+{
+  "name": "چی بپزم؟",
+  "short_name": "چی بپزم؟",
+  "description": "پیشنهاد غذا بر اساس مواد موجود در یخچال",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff8ec",
+  "theme_color": "#ff6b4a",
+  "lang": "fa",
+  "dir": "rtl"
+}
