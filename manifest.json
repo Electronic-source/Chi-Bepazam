@@ -1,0 +1,45 @@
+{
+  "id": "./",
+  "name": "چی بپزم؟",
+  "short_name": "چی بپزم؟",
+  "description": "پیشنهاد غذا بر اساس مواد موجود در یخچال",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fff8ec",
+  "theme_color": "#ff6b4a",
+  "lang": "fa",
+  "dir": "rtl",
+  "categories": ["food", "lifestyle", "utilities"],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshots/desktop.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "صفحهٔ پیشنهاد غذا در دسکتاپ"
+    },
+    {
+      "src": "screenshots/mobile.png",
+      "sizes": "390x844",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "صفحهٔ پیشنهاد غذا در موبایل"
+    }
+  ]
+}
